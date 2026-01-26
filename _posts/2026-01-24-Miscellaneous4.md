@@ -3,7 +3,7 @@ title: Miscellaneous4 - The end of Homo sapiens
 header:
   image: "/images/Miscellaneous4.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - DNA
 - Origin of life
