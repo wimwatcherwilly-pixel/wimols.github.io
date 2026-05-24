@@ -3,7 +3,7 @@ title: Outer Planets 1
 header:
   image: "/images/Outer Planets1.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - DNA
 - Origin of life
